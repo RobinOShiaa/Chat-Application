@@ -120,8 +120,8 @@ button:disabled {
 }
 
 .form_box {
-  color : blue;
   padding: 30px;
+  width: 100vw;
   
   
 }
@@ -129,6 +129,7 @@ button:disabled {
 
 .form_box label {
   color : white;
+  font-size : 40px;
   
   
   
@@ -193,7 +194,7 @@ button:disabled {
 }
 
 
-.compose {
+.type-box {
   display: flex;
   flex-shrink: 0;
   margin-top: 16px;
